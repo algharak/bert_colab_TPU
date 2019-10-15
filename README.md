@@ -1,1 +1,2 @@
-# bert_colab_TPU
+# This is a notebook for allowing to experiment with google colab
+
